@@ -1,3 +1,9 @@
+body {
+  color: white;
+  background-color: black;
+
+}
+
 .div-secao-principal {
   background-image: url('../../assets/img/secao-principal/fundo.jpg');
   background-position: center;
