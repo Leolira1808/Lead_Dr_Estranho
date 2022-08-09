@@ -32,3 +32,22 @@
   max-height: 600px;
   mix-blend-mode: screen;
 }
+
+.img-doutorestranho {
+  width: 100%;
+  max-width: 700px;
+}
+
+.img-titulo {
+  width: 100%;
+  min-width: 500px;
+  mix-blend-mode: screen;
+  padding: 20px;
+}
+
+.div-img-circulo,
+.div-img-drestranho,
+.div-img-titulo {
+  bottom: 0px;
+
+}
