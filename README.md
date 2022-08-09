@@ -4,6 +4,7 @@
  ## Links utilizados neste repositório
  
 * [Docs Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
+* [Include Bootstrap’s CSS and JS](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 * [Bootstrap Utilities Flex](https://getbootstrap.com/docs/5.2/utilities/flex/)
 * [Bootstrap Utilities Position](https://getbootstrap.com/docs/5.2/utilities/position/)
 * [Bootstrap Tamanhos](https://getbootstrap.com/docs/5.2/layout/grid/)
