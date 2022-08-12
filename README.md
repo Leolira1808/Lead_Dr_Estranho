@@ -1,5 +1,9 @@
-# Repositório da Lead Page Doutor Estranho Multiverso da Loucura
+# Repositório da Leading Page Doutor Estranho Multiverso da Loucura
  **_Feito no Curso do Youtube do canal While True - Tiago Luz_**
+ 
+ #### *_Leading Page Doutor Estranho Multiverso da Loucura_*
+ 
+ ![Lead_Dr_Estranho](https://user-images.githubusercontent.com/97995984/184265629-52533f5d-d541-43d0-b3bf-8c7af4a74398.png)
  
  ## Links utilizados neste repositório
  
